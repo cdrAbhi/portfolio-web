@@ -19,6 +19,8 @@ def addition(v1, v2):
 
 # Example usage of the addition function
 if __name__ == "__main__":
-    result = addition(3, 5)  # Example values
-    print(f"The result of addition is: {result}")
+    RESULT = addition(3, 5)  # Example values, changed variable to uppercase
+    print(f"The result of addition is: {RESULT}")  # Use uppercase variable
+
+# End of file
 

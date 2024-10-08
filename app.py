@@ -21,6 +21,3 @@ def addition(v1, v2):
 if __name__ == "__main__":
     RESULT = addition(3, 5)  # Example values, changed variable to uppercase
     print(f"The result of addition is: {RESULT}")  # Use uppercase variable
-
-# End of file
-
